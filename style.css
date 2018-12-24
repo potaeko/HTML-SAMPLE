@@ -1,0 +1,22 @@
+/* unvisited link */
+* {
+    font-family: "indie flower"
+}
+
+a:focus {
+    background-color: orange
+}
+
+a:active {
+    background-color: black;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    background-color: hotpink;
+}
